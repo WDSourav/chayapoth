@@ -1,0 +1,7 @@
+{
+  "name": "chayapoth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
